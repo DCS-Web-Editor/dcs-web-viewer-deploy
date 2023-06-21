@@ -1705,9 +1705,10 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
             <li class="popup-item">Callsign: <em>${e.airport.properties.code}</em></li>
             <li class="popup-item">Morse: <b>${t}</b></li>
             <li class="popup-item">
-              <a href="${cO(e.airport.properties.code)}" target="_blank">SkyVectorAirport</a>
-              <a href="https://www.google.com/search?q=${e.name}+${e.airport.properties.code}+approach+charts&tbm=isch" target="_blank">GoogleCharts</a>
+              <a href="${cO(e.airport.properties.code)}" target="_blank">SkyVector</a>
+              <a href="https://www.google.com/search?q=${e.name}+${e.airport.properties.code}+approach+charts&tbm=isch" target="_blank">Google</a>
               <a href="https://wiki.hoggitworld.com/view/${e.airport.properties.code}" target="_blank">Hoggit</a>
+              <a href="https://fly.airmate.aero/php//pdf_viewer/plates.php?code=${e.airport.properties.code}&cat=IAC" title="Needs free airmate.aero account / login but has most charts" target="_blank">Airmate</a>
             </li>
         </ul>
         <ul class="popup-list">
