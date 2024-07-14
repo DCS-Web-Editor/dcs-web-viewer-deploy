@@ -4,10 +4,10 @@
       "$oid": "6637ee3a5f0a60308cdb9d67"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:08.867Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.095Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 1,
-    "displayName": "Lakselv",
+    "displayName": "Banak",
     "parking": [
       {
         "Term_Index": 27,
@@ -764,7 +764,7 @@
         "width": 45
       }
     ],
-    "typeName": "Lakselv",
+    "typeName": "Banak",
     "stands": [
       {
         "y": 88349.859375,
@@ -1180,8 +1180,8 @@
       "$oid": "6637ee3a5f0a60308cdb9d89"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:08.959Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.143Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 2,
     "displayName": "Rovaniemi",
     "parking": [
@@ -3010,8 +3010,8 @@
       "$oid": "6637ee3a5f0a60308cdb9da7"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.017Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.186Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 3,
     "displayName": "Kemi Tornio",
     "parking": [
@@ -3362,8 +3362,8 @@
       "$oid": "6637ee3a5f0a60308cdb9dc5"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.073Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.230Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 4,
     "displayName": "Bas 100",
     "parking": [
@@ -3878,8 +3878,8 @@
       "$oid": "6637ee3a5f0a60308cdb9de3"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.125Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.282Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 5,
     "displayName": "Kiruna",
     "parking": [
@@ -4519,10 +4519,10 @@
       "$oid": "6637ee3a5f0a60308cdb9e45"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.194Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.330Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 6,
-    "displayName": "Severomorsk3",
+    "displayName": "Severomorsk-3",
     "parking": [
       {
         "Term_Index": 76,
@@ -6553,7 +6553,7 @@
         "width": 65
       }
     ],
-    "typeName": "Severomorsk3",
+    "typeName": "Severomorsk-3",
     "stands": [
       {
         "y": 445795.84375,
@@ -7700,8 +7700,8 @@
       "$oid": "6637ee3a5f0a60308cdb9e8a"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.262Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.378Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 7,
     "displayName": "Bodo",
     "parking": [
@@ -7786,7 +7786,7 @@
       {
         "Term_Index": 92,
         "vTerminalPos": {
-          "y": 12.994289398193,
+          "y": 13.000018119812,
           "x": -67180.5546875,
           "z": -347167.71875
         },
@@ -7794,14 +7794,14 @@
         "Term_Type": 104,
         "pos": {
           "DCS": {
-            "y": 12.994289398193,
+            "y": 13.000018119812,
             "x": -67180.5546875,
             "z": -347167.71875
           },
           "World": {
             "lon": 14.392852730531,
             "lat": 67.268344010984,
-            "alt": 12.994289398193
+            "alt": 13.000018119812
           }
         },
         "Term_Type_Name": "OpenAirSpawn",
@@ -7911,7 +7911,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 8,
         "Term_Index_0": -1,
-        "fDistToRW": 3665.7729492188
+        "fDistToRW": 4201.1381835938
       },
       {
         "Term_Index": 87,
@@ -8306,7 +8306,7 @@
       {
         "Term_Index": 72,
         "vTerminalPos": {
-          "y": 12.999223709106,
+          "y": 12.999937057495,
           "x": -67677.7734375,
           "z": -348855.375
         },
@@ -8314,14 +8314,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.999223709106,
+            "y": 12.999937057495,
             "x": -67677.7734375,
             "z": -348855.375
           },
           "World": {
             "lon": 14.355208669613,
             "lat": 67.262302605422,
-            "alt": 12.999223709106
+            "alt": 12.999937057495
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -8332,7 +8332,7 @@
       {
         "Term_Index": 71,
         "vTerminalPos": {
-          "y": 12.999258995056,
+          "y": 12.999918937683,
           "x": -67775.2109375,
           "z": -348824.53125
         },
@@ -8340,14 +8340,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.999258995056,
+            "y": 12.999918937683,
             "x": -67775.2109375,
             "z": -348824.53125
           },
           "World": {
             "lon": 14.35616001698,
             "lat": 67.261463972551,
-            "alt": 12.999258995056
+            "alt": 12.999918937683
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -8410,7 +8410,7 @@
       {
         "Term_Index": 68,
         "vTerminalPos": {
-          "y": 11.923548698425,
+          "y": 12.99992275238,
           "x": -67764.234375,
           "z": -349233.78125
         },
@@ -8418,14 +8418,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 11.923548698425,
+            "y": 12.99992275238,
             "x": -67764.234375,
             "z": -349233.78125
           },
           "World": {
             "lon": 14.346708775889,
             "lat": 67.261169776697,
-            "alt": 11.923548698425
+            "alt": 12.99992275238
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -8436,7 +8436,7 @@
       {
         "Term_Index": 67,
         "vTerminalPos": {
-          "y": 12.979290962219,
+          "y": 12.999928474426,
           "x": -67732.1875,
           "z": -349335.65625
         },
@@ -8444,14 +8444,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.979290962219,
+            "y": 12.999928474426,
             "x": -67732.1875,
             "z": -349335.65625
           },
           "World": {
             "lon": 14.344283462849,
             "lat": 67.261357638539,
-            "alt": 12.979290962219
+            "alt": 12.999928474426
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -8566,7 +8566,7 @@
       {
         "Term_Index": 62,
         "vTerminalPos": {
-          "y": 12.997604370117,
+          "y": 12.999960899353,
           "x": -67540.2421875,
           "z": -349313.6875
         },
@@ -8574,14 +8574,14 @@
         "Term_Type": 104,
         "pos": {
           "DCS": {
-            "y": 12.997604370117,
+            "y": 12.999960899353,
             "x": -67540.2421875,
             "z": -349313.6875
           },
           "World": {
             "lon": 14.344313663072,
             "lat": 67.263088875737,
-            "alt": 12.997604370117
+            "alt": 12.999960899353
           }
         },
         "Term_Type_Name": "OpenAirSpawn",
@@ -8743,7 +8743,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 40,
         "Term_Index_0": -1,
-        "fDistToRW": -1
+        "fDistToRW": 1786.7727050781
       },
       {
         "Term_Index": 55,
@@ -8769,7 +8769,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 41,
         "Term_Index_0": -1,
-        "fDistToRW": 1683.6481933594
+        "fDistToRW": 1683.6484375
       },
       {
         "Term_Index": 54,
@@ -8800,7 +8800,7 @@
       {
         "Term_Index": 53,
         "vTerminalPos": {
-          "y": 9.5977439880371,
+          "y": 9.5986042022705,
           "x": -66747.3671875,
           "z": -348788.15625
         },
@@ -8808,14 +8808,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 9.5977439880371,
+            "y": 9.5986042022705,
             "x": -66747.3671875,
             "z": -348788.15625
           },
           "World": {
             "lon": 14.354454219634,
             "lat": 67.270656758687,
-            "alt": 9.5977439880371
+            "alt": 9.5986042022705
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -8826,7 +8826,7 @@
       {
         "Term_Index": 52,
         "vTerminalPos": {
-          "y": 12.970980644226,
+          "y": 12.999972343445,
           "x": -67459.2734375,
           "z": -349735.59375
         },
@@ -8834,14 +8834,14 @@
         "Term_Type": 104,
         "pos": {
           "DCS": {
-            "y": 12.970980644226,
+            "y": 12.999972343445,
             "x": -67459.2734375,
             "z": -349735.59375
           },
           "World": {
             "lon": 14.334396785845,
             "lat": 67.263405420221,
-            "alt": 12.970980644226
+            "alt": 12.999972343445
           }
         },
         "Term_Type_Name": "OpenAirSpawn",
@@ -8852,7 +8852,7 @@
       {
         "Term_Index": 51,
         "vTerminalPos": {
-          "y": 12.837651252747,
+          "y": 12.999982833862,
           "x": -67399.1875,
           "z": -349812.53125
         },
@@ -8860,14 +8860,14 @@
         "Term_Type": 104,
         "pos": {
           "DCS": {
-            "y": 12.837651252747,
+            "y": 12.999982833862,
             "x": -67399.1875,
             "z": -349812.53125
           },
           "World": {
             "lon": 14.332475825696,
             "lat": 67.263866861542,
-            "alt": 12.837651252747
+            "alt": 12.999982833862
           }
         },
         "Term_Type_Name": "OpenAirSpawn",
@@ -8878,7 +8878,7 @@
       {
         "Term_Index": 50,
         "vTerminalPos": {
-          "y": 12.847994804382,
+          "y": 12.999938964844,
           "x": -67656.125,
           "z": -349734.21875
         },
@@ -8886,14 +8886,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.847994804382,
+            "y": 12.999938964844,
             "x": -67656.125,
             "z": -349734.21875
           },
           "World": {
             "lon": 14.334917019765,
             "lat": 67.261652889882,
-            "alt": 12.847994804382
+            "alt": 12.999938964844
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -8904,7 +8904,7 @@
       {
         "Term_Index": 49,
         "vTerminalPos": {
-          "y": 13.001137733459,
+          "y": 13.001428604126,
           "x": -67668.3671875,
           "z": -349954.25
         },
@@ -8912,14 +8912,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 13.001137733459,
+            "y": 13.001428604126,
             "x": -67668.3671875,
             "z": -349954.25
           },
           "World": {
             "lon": 14.329880768296,
             "lat": 67.261332463362,
-            "alt": 13.001137733459
+            "alt": 13.001428604126
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -8930,7 +8930,7 @@
       {
         "Term_Index": 48,
         "vTerminalPos": {
-          "y": 13.019446372986,
+          "y": 12.999920845032,
           "x": -67774.328125,
           "z": -349929.59375
         },
@@ -8938,14 +8938,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 13.019446372986,
+            "y": 12.999920845032,
             "x": -67774.328125,
             "z": -349929.59375
           },
           "World": {
             "lon": 14.33071164578,
             "lat": 67.260412103036,
-            "alt": 13.019446372986
+            "alt": 12.999920845032
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -8982,7 +8982,7 @@
       {
         "Term_Index": 46,
         "vTerminalPos": {
-          "y": 13.001427650452,
+          "y": 13.001428604126,
           "x": -67797.2109375,
           "z": -350119.5625
         },
@@ -8990,14 +8990,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 13.001427650452,
+            "y": 13.001428604126,
             "x": -67797.2109375,
             "z": -350119.5625
           },
           "World": {
             "lon": 14.326394353411,
             "lat": 67.260025649759,
-            "alt": 13.001427650452
+            "alt": 13.001428604126
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9008,7 +9008,7 @@
       {
         "Term_Index": 45,
         "vTerminalPos": {
-          "y": 12.757437705994,
+          "y": 13.0014295578,
           "x": -67594.78125,
           "z": -349830.125
         },
@@ -9016,14 +9016,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.757437705994,
+            "y": 13.0014295578,
             "x": -67594.78125,
             "z": -349830.125
           },
           "World": {
             "lon": 14.332556285029,
             "lat": 67.262107325169,
-            "alt": 12.757437705994
+            "alt": 13.0014295578
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9034,7 +9034,7 @@
       {
         "Term_Index": 44,
         "vTerminalPos": {
-          "y": 13.0014295578,
+          "y": 13.001428604126,
           "x": -67528.234375,
           "z": -350082
         },
@@ -9042,14 +9042,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 13.0014295578,
+            "y": 13.001428604126,
             "x": -67528.234375,
             "z": -350082
           },
           "World": {
             "lon": 14.326590932061,
             "lat": 67.262458172316,
-            "alt": 13.0014295578
+            "alt": 13.001428604126
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9060,7 +9060,7 @@
       {
         "Term_Index": 43,
         "vTerminalPos": {
-          "y": 12.911202430725,
+          "y": 13.0014295578,
           "x": -67538.0390625,
           "z": -349932.71875
         },
@@ -9068,14 +9068,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.911202430725,
+            "y": 13.0014295578,
             "x": -67538.0390625,
             "z": -349932.71875
           },
           "World": {
             "lon": 14.330052891992,
             "lat": 67.262514301704,
-            "alt": 12.911202430725
+            "alt": 13.0014295578
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9086,7 +9086,7 @@
       {
         "Term_Index": 42,
         "vTerminalPos": {
-          "y": 12.751540184021,
+          "y": 13.001428604126,
           "x": -67405.4296875,
           "z": -349966.625
         },
@@ -9094,14 +9094,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.751540184021,
+            "y": 13.001428604126,
             "x": -67405.4296875,
             "z": -349966.625
           },
           "World": {
             "lon": 14.328942699055,
             "lat": 67.263663189783,
-            "alt": 12.751540184021
+            "alt": 13.001428604126
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9138,7 +9138,7 @@
       {
         "Term_Index": 40,
         "vTerminalPos": {
-          "y": 12.643078804016,
+          "y": 13.001427650452,
           "x": -67956.4453125,
           "z": -350319.875
         },
@@ -9146,14 +9146,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.643078804016,
+            "y": 13.001427650452,
             "x": -67956.4453125,
             "z": -350319.875
           },
           "World": {
             "lon": 14.322178039323,
             "lat": 67.258414335345,
-            "alt": 12.643078804016
+            "alt": 13.001427650452
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9164,7 +9164,7 @@
       {
         "Term_Index": 39,
         "vTerminalPos": {
-          "y": 12.3307056427,
+          "y": 13.0014295578,
           "x": -67944.6015625,
           "z": -350469.15625
         },
@@ -9172,14 +9172,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.3307056427,
+            "y": 13.0014295578,
             "x": -67944.6015625,
             "z": -350469.15625
           },
           "World": {
             "lon": 14.318711625433,
             "lat": 67.258376206708,
-            "alt": 12.3307056427
+            "alt": 13.0014295578
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9190,7 +9190,7 @@
       {
         "Term_Index": 38,
         "vTerminalPos": {
-          "y": 9.1385946273804,
+          "y": 9.1397714614868,
           "x": -66803.171875,
           "z": -349032.875
         },
@@ -9198,14 +9198,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 9.1385946273804,
+            "y": 9.1397714614868,
             "x": -66803.171875,
             "z": -349032.875
           },
           "World": {
             "lon": 14.348955015458,
             "lat": 67.269925143135,
-            "alt": 9.1385946273804
+            "alt": 9.1397714614868
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9216,7 +9216,7 @@
       {
         "Term_Index": 37,
         "vTerminalPos": {
-          "y": 8.931679725647,
+          "y": 8.9307928085327,
           "x": -66819.578125,
           "z": -349141.40625
         },
@@ -9224,14 +9224,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 8.931679725647,
+            "y": 8.9307928085327,
             "x": -66819.578125,
             "z": -349141.40625
           },
           "World": {
             "lon": 14.346495585761,
             "lat": 67.269674948376,
-            "alt": 8.931679725647
+            "alt": 8.9307928085327
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9242,7 +9242,7 @@
       {
         "Term_Index": 36,
         "vTerminalPos": {
-          "y": 13.001428604126,
+          "y": 13.0014295578,
           "x": -67633.9375,
           "z": -350352.40625
         },
@@ -9250,14 +9250,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 13.001428604126,
+            "y": 13.0014295578,
             "x": -67633.9375,
             "z": -350352.40625
           },
           "World": {
             "lon": 14.320627094637,
             "lat": 67.261256345243,
-            "alt": 13.001428604126
+            "alt": 13.0014295578
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9294,7 +9294,7 @@
       {
         "Term_Index": 34,
         "vTerminalPos": {
-          "y": 12.720148086548,
+          "y": 13.001428604126,
           "x": -67884.359375,
           "z": -350571.75
         },
@@ -9302,14 +9302,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.720148086548,
+            "y": 13.001428604126,
             "x": -67884.359375,
             "z": -350571.75
           },
           "World": {
             "lon": 14.316199691391,
             "lat": 67.258814150251,
-            "alt": 12.720148086548
+            "alt": 13.001428604126
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9320,7 +9320,7 @@
       {
         "Term_Index": 33,
         "vTerminalPos": {
-          "y": 13.0014295578,
+          "y": 13.001428604126,
           "x": -67804.375,
           "z": -350472.78125
         },
@@ -9328,14 +9328,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 13.0014295578,
+            "y": 13.001428604126,
             "x": -67804.375,
             "z": -350472.78125
           },
           "World": {
             "lon": 14.318279352527,
             "lat": 67.259622026559,
-            "alt": 13.0014295578
+            "alt": 13.001428604126
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9346,7 +9346,7 @@
       {
         "Term_Index": 32,
         "vTerminalPos": {
-          "y": 12.778645515442,
+          "y": 13.001428604126,
           "x": -67666.8515625,
           "z": -350574.5
         },
@@ -9354,14 +9354,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.778645515442,
+            "y": 13.001428604126,
             "x": -67666.8515625,
             "z": -350574.5
           },
           "World": {
             "lon": 14.315595096649,
             "lat": 67.26074931634,
-            "alt": 12.778645515442
+            "alt": 13.001428604126
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9840,7 +9840,7 @@
       {
         "Term_Index": 13,
         "vTerminalPos": {
-          "y": 12.806025505066,
+          "y": 13.001428604126,
           "x": -67597.625,
           "z": -350495.71875
         },
@@ -9848,14 +9848,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.806025505066,
+            "y": 13.001428604126,
             "x": -67597.625,
             "z": -350495.71875
           },
           "World": {
             "lon": 14.317236826854,
             "lat": 67.261441923287,
-            "alt": 12.806025505066
+            "alt": 13.001428604126
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -9866,7 +9866,7 @@
       {
         "Term_Index": 12,
         "vTerminalPos": {
-          "y": 12.857584953308,
+          "y": 13.001427650452,
           "x": -67477.546875,
           "z": -350441.71875
         },
@@ -9874,14 +9874,14 @@
         "Term_Type": 72,
         "pos": {
           "DCS": {
-            "y": 12.857584953308,
+            "y": 13.001427650452,
             "x": -67477.546875,
             "z": -350441.71875
           },
           "World": {
             "lon": 14.3181814989,
             "lat": 67.262563708073,
-            "alt": 12.857584953308
+            "alt": 13.001427650452
           }
         },
         "Term_Type_Name": "AirplaneOnly",
@@ -11662,10 +11662,10 @@
       "$oid": "6637ee3a5f0a60308cdb9ef3"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.346Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.431Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 8,
-    "displayName": "Severomorsk1",
+    "displayName": "Severomorsk-1",
     "parking": [
       {
         "Term_Index": 68,
@@ -11691,7 +11691,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 1,
         "Term_Index_0": -1,
-        "fDistToRW": 2934.7150878906
+        "fDistToRW": 2934.7221679688
       },
       {
         "Term_Index": 67,
@@ -11717,7 +11717,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 2,
         "Term_Index_0": -1,
-        "fDistToRW": 2991.818359375
+        "fDistToRW": 2991.8256835938
       },
       {
         "Term_Index": 66,
@@ -11743,7 +11743,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 3,
         "Term_Index_0": -1,
-        "fDistToRW": 3041.4497070312
+        "fDistToRW": 3041.45703125
       },
       {
         "Term_Index": 65,
@@ -11769,7 +11769,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 4,
         "Term_Index_0": -1,
-        "fDistToRW": 1884.7879638672
+        "fDistToRW": 1884.7951660156
       },
       {
         "Term_Index": 64,
@@ -11795,7 +11795,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 5,
         "Term_Index_0": -1,
-        "fDistToRW": 1322.8587646484
+        "fDistToRW": 1322.8658447266
       },
       {
         "Term_Index": 63,
@@ -11821,7 +11821,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 6,
         "Term_Index_0": -1,
-        "fDistToRW": 1242.7607421875
+        "fDistToRW": 1242.7678222656
       },
       {
         "Term_Index": 62,
@@ -11847,7 +11847,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 7,
         "Term_Index_0": -1,
-        "fDistToRW": 1158.6760253906
+        "fDistToRW": 1158.6831054688
       },
       {
         "Term_Index": 61,
@@ -11873,7 +11873,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 8,
         "Term_Index_0": -1,
-        "fDistToRW": 4843.037109375
+        "fDistToRW": 4843.0444335938
       },
       {
         "Term_Index": 60,
@@ -11899,7 +11899,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 9,
         "Term_Index_0": -1,
-        "fDistToRW": 4766.8569335938
+        "fDistToRW": 4766.8642578125
       },
       {
         "Term_Index": 59,
@@ -11925,7 +11925,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 10,
         "Term_Index_0": -1,
-        "fDistToRW": 4392.298828125
+        "fDistToRW": 4392.3061523438
       },
       {
         "Term_Index": 58,
@@ -11951,7 +11951,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 11,
         "Term_Index_0": -1,
-        "fDistToRW": 4903.3833007812
+        "fDistToRW": 4903.3901367188
       },
       {
         "Term_Index": 57,
@@ -11977,7 +11977,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 12,
         "Term_Index_0": -1,
-        "fDistToRW": 4856.2446289062
+        "fDistToRW": 4856.2514648438
       },
       {
         "Term_Index": 56,
@@ -12003,7 +12003,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 13,
         "Term_Index_0": -1,
-        "fDistToRW": 4779.0747070312
+        "fDistToRW": 4779.0815429688
       },
       {
         "Term_Index": 55,
@@ -12029,7 +12029,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 14,
         "Term_Index_0": -1,
-        "fDistToRW": 4811.0952148438
+        "fDistToRW": 4811.1025390625
       },
       {
         "Term_Index": 54,
@@ -12055,7 +12055,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 15,
         "Term_Index_0": -1,
-        "fDistToRW": 4688.7387695312
+        "fDistToRW": 4688.74609375
       },
       {
         "Term_Index": 53,
@@ -12081,7 +12081,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 16,
         "Term_Index_0": -1,
-        "fDistToRW": 4560.5170898438
+        "fDistToRW": 4560.5244140625
       },
       {
         "Term_Index": 52,
@@ -12107,7 +12107,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 17,
         "Term_Index_0": -1,
-        "fDistToRW": 4103.7192382812
+        "fDistToRW": 4103.7260742188
       },
       {
         "Term_Index": 51,
@@ -12159,7 +12159,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 19,
         "Term_Index_0": -1,
-        "fDistToRW": 628.30889892578
+        "fDistToRW": 628.30767822266
       },
       {
         "Term_Index": 49,
@@ -12185,7 +12185,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 20,
         "Term_Index_0": -1,
-        "fDistToRW": 705.11541748047
+        "fDistToRW": 705.1142578125
       },
       {
         "Term_Index": 48,
@@ -12211,7 +12211,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 21,
         "Term_Index_0": -1,
-        "fDistToRW": 850.06457519531
+        "fDistToRW": 850.06341552734
       },
       {
         "Term_Index": 47,
@@ -12237,7 +12237,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 22,
         "Term_Index_0": -1,
-        "fDistToRW": 866.841796875
+        "fDistToRW": 866.84057617188
       },
       {
         "Term_Index": 46,
@@ -12263,7 +12263,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 23,
         "Term_Index_0": -1,
-        "fDistToRW": 909.29058837891
+        "fDistToRW": 909.28942871094
       },
       {
         "Term_Index": 45,
@@ -12289,7 +12289,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 24,
         "Term_Index_0": -1,
-        "fDistToRW": 684.93328857422
+        "fDistToRW": 684.93206787109
       },
       {
         "Term_Index": 44,
@@ -12315,7 +12315,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 25,
         "Term_Index_0": -1,
-        "fDistToRW": 724.10357666016
+        "fDistToRW": 724.10241699219
       },
       {
         "Term_Index": 43,
@@ -12341,7 +12341,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 26,
         "Term_Index_0": -1,
-        "fDistToRW": 763.78381347656
+        "fDistToRW": 763.78259277344
       },
       {
         "Term_Index": 42,
@@ -12367,7 +12367,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 27,
         "Term_Index_0": -1,
-        "fDistToRW": 802.73663330078
+        "fDistToRW": 802.73547363281
       },
       {
         "Term_Index": 41,
@@ -12393,7 +12393,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 28,
         "Term_Index_0": -1,
-        "fDistToRW": 799.68688964844
+        "fDistToRW": 799.68566894531
       },
       {
         "Term_Index": 40,
@@ -12419,7 +12419,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 29,
         "Term_Index_0": -1,
-        "fDistToRW": 759.88531494141
+        "fDistToRW": 759.88415527344
       },
       {
         "Term_Index": 39,
@@ -12445,7 +12445,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 30,
         "Term_Index_0": -1,
-        "fDistToRW": 719.81280517578
+        "fDistToRW": 719.81164550781
       },
       {
         "Term_Index": 38,
@@ -12471,7 +12471,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 31,
         "Term_Index_0": -1,
-        "fDistToRW": 681.22723388672
+        "fDistToRW": 681.22607421875
       },
       {
         "Term_Index": 37,
@@ -12497,7 +12497,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 32,
         "Term_Index_0": -1,
-        "fDistToRW": 2462.7727050781
+        "fDistToRW": 2462.7797851562
       },
       {
         "Term_Index": 36,
@@ -12523,7 +12523,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 33,
         "Term_Index_0": -1,
-        "fDistToRW": 2485.92578125
+        "fDistToRW": 2485.9328613281
       },
       {
         "Term_Index": 35,
@@ -12549,7 +12549,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 34,
         "Term_Index_0": -1,
-        "fDistToRW": 2793.3247070312
+        "fDistToRW": 2793.3317871094
       },
       {
         "Term_Index": 34,
@@ -12575,7 +12575,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 35,
         "Term_Index_0": -1,
-        "fDistToRW": 2815.2641601562
+        "fDistToRW": 2815.2712402344
       },
       {
         "Term_Index": 33,
@@ -12601,7 +12601,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 36,
         "Term_Index_0": -1,
-        "fDistToRW": 2798.9267578125
+        "fDistToRW": 2798.9338378906
       },
       {
         "Term_Index": 32,
@@ -12627,7 +12627,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 37,
         "Term_Index_0": -1,
-        "fDistToRW": 2822.1027832031
+        "fDistToRW": 2822.1098632812
       },
       {
         "Term_Index": 31,
@@ -12653,7 +12653,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 38,
         "Term_Index_0": -1,
-        "fDistToRW": 2699.5964355469
+        "fDistToRW": 2699.6037597656
       },
       {
         "Term_Index": 30,
@@ -12679,7 +12679,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 39,
         "Term_Index_0": -1,
-        "fDistToRW": 2723.5180664062
+        "fDistToRW": 2723.525390625
       },
       {
         "Term_Index": 29,
@@ -12705,7 +12705,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 40,
         "Term_Index_0": -1,
-        "fDistToRW": 2747.2749023438
+        "fDistToRW": 2747.2822265625
       },
       {
         "Term_Index": 28,
@@ -12731,7 +12731,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 41,
         "Term_Index_0": -1,
-        "fDistToRW": 2769.4077148438
+        "fDistToRW": 2769.4150390625
       },
       {
         "Term_Index": 27,
@@ -12757,7 +12757,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 42,
         "Term_Index_0": -1,
-        "fDistToRW": 2704.9416503906
+        "fDistToRW": 2704.9487304688
       },
       {
         "Term_Index": 26,
@@ -12783,7 +12783,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 43,
         "Term_Index_0": -1,
-        "fDistToRW": 2728.1994628906
+        "fDistToRW": 2728.2065429688
       },
       {
         "Term_Index": 25,
@@ -12809,7 +12809,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 44,
         "Term_Index_0": -1,
-        "fDistToRW": 2751.3911132812
+        "fDistToRW": 2751.3981933594
       },
       {
         "Term_Index": 24,
@@ -12835,7 +12835,7 @@
         "Term_Type_Name": "HelicopterOnly",
         "id": 45,
         "Term_Index_0": -1,
-        "fDistToRW": 2774.8249511719
+        "fDistToRW": 2774.8322753906
       },
       {
         "Term_Index": 23,
@@ -12887,7 +12887,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 47,
         "Term_Index_0": -1,
-        "fDistToRW": 277.66876220703
+        "fDistToRW": 277.66757202148
       },
       {
         "Term_Index": 21,
@@ -12913,7 +12913,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 48,
         "Term_Index_0": -1,
-        "fDistToRW": 392.20303344727
+        "fDistToRW": 392.20184326172
       },
       {
         "Term_Index": 20,
@@ -12939,7 +12939,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 49,
         "Term_Index_0": -1,
-        "fDistToRW": 430.15234375
+        "fDistToRW": 430.15115356445
       },
       {
         "Term_Index": 19,
@@ -12965,7 +12965,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 50,
         "Term_Index_0": -1,
-        "fDistToRW": 468.22540283203
+        "fDistToRW": 468.22424316406
       },
       {
         "Term_Index": 18,
@@ -12991,7 +12991,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 51,
         "Term_Index_0": -1,
-        "fDistToRW": 506.39828491211
+        "fDistToRW": 506.39712524414
       },
       {
         "Term_Index": 17,
@@ -13017,7 +13017,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 52,
         "Term_Index_0": -1,
-        "fDistToRW": 764.71496582031
+        "fDistToRW": 764.71374511719
       },
       {
         "Term_Index": 16,
@@ -13043,7 +13043,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 53,
         "Term_Index_0": -1,
-        "fDistToRW": 717.04333496094
+        "fDistToRW": 717.04217529297
       },
       {
         "Term_Index": 15,
@@ -13069,7 +13069,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 54,
         "Term_Index_0": -1,
-        "fDistToRW": 810.27825927734
+        "fDistToRW": 810.27709960938
       },
       {
         "Term_Index": 14,
@@ -13095,7 +13095,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 55,
         "Term_Index_0": -1,
-        "fDistToRW": 856.67547607422
+        "fDistToRW": 856.67431640625
       },
       {
         "Term_Index": 13,
@@ -13121,7 +13121,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 56,
         "Term_Index_0": -1,
-        "fDistToRW": 904.19842529297
+        "fDistToRW": 904.197265625
       },
       {
         "Term_Index": 12,
@@ -13147,7 +13147,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 57,
         "Term_Index_0": -1,
-        "fDistToRW": 994.84228515625
+        "fDistToRW": 994.84112548828
       },
       {
         "Term_Index": 11,
@@ -13199,7 +13199,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 59,
         "Term_Index_0": -1,
-        "fDistToRW": 1128.8145751953
+        "fDistToRW": 1128.814453125
       },
       {
         "Term_Index": 9,
@@ -13225,7 +13225,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 60,
         "Term_Index_0": -1,
-        "fDistToRW": 1152.2822265625
+        "fDistToRW": 1152.2821044922
       },
       {
         "Term_Index": 8,
@@ -13251,7 +13251,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 61,
         "Term_Index_0": -1,
-        "fDistToRW": 1176.3479003906
+        "fDistToRW": 1176.3477783203
       },
       {
         "Term_Index": 7,
@@ -13329,7 +13329,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 64,
         "Term_Index_0": -1,
-        "fDistToRW": 950.25842285156
+        "fDistToRW": 950.25726318359
       },
       {
         "Term_Index": 4,
@@ -13381,7 +13381,7 @@
         "Term_Type_Name": "OpenAirSpawn",
         "id": 66,
         "Term_Index_0": -1,
-        "fDistToRW": 1176.3305664062
+        "fDistToRW": 1176.3304443359
       },
       {
         "Term_Index": 2,
@@ -13488,7 +13488,7 @@
         "width": 65
       }
     ],
-    "typeName": "Severomorsk1",
+    "typeName": "Severomorsk-1",
     "stands": [
       {
         "y": 429242.71875,
@@ -13499,9 +13499,9 @@
         "params": {
           "SHELTER": "0",
           "FOR_HELICOPTERS": "1",
-          "LENGTH": "61.000000",
-          "HEIGHT": "20",
-          "WIDTH": "61.000000",
+          "LENGTH": "60.000000",
+          "HEIGHT": "18",
+          "WIDTH": "52.000000",
           "FOR_AIRPLANES": "1"
         }
       },
@@ -13664,9 +13664,9 @@
         "params": {
           "SHELTER": "0",
           "FOR_HELICOPTERS": "1",
-          "LENGTH": "61.000000",
-          "HEIGHT": "20",
-          "WIDTH": "61.000000",
+          "LENGTH": "60.000000",
+          "HEIGHT": "18",
+          "WIDTH": "52.000000",
           "FOR_AIRPLANES": "1"
         }
       },
@@ -13679,9 +13679,9 @@
         "params": {
           "SHELTER": "0",
           "FOR_HELICOPTERS": "1",
-          "LENGTH": "61.000000",
-          "HEIGHT": "20",
-          "WIDTH": "61.000000",
+          "LENGTH": "60.000000",
+          "HEIGHT": "18",
+          "WIDTH": "52.000000",
           "FOR_AIRPLANES": "1"
         }
       },
@@ -14503,7 +14503,9 @@
       "runways": [
         "14-32"
       ],
-      "ATC": [],
+      "ATC": [
+        127800000
+      ],
       "TACAN": [],
       "ILS": []
     }
@@ -14513,10 +14515,10 @@
       "$oid": "6637ee3a5f0a60308cdb9f31"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.430Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.478Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 9,
-    "displayName": "Olenegorsk",
+    "displayName": "Olenya",
     "parking": [
       {
         "Term_Index": 68,
@@ -16339,7 +16341,7 @@
         "width": 65
       }
     ],
-    "typeName": "Olenegorsk",
+    "typeName": "Olenya",
     "stands": [
       {
         "y": 451434.84375,
@@ -17366,8 +17368,8 @@
       "$oid": "6637ee3a5f0a60308cdb9f82"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.518Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.526Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 10,
     "displayName": "Monchegorsk",
     "parking": [
@@ -21406,8 +21408,8 @@
       "$oid": "6637ee3a5f0a60308cdb9f98"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.602Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.575Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 11,
     "displayName": "Jokkmokk",
     "parking": [
@@ -23344,8 +23346,8 @@
       "$oid": "6637ee3a5f0a60308cdb9fb7"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.674Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.623Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 12,
     "displayName": "Murmansk International",
     "parking": [
@@ -24642,8 +24644,8 @@
       "$oid": "6637ee3a5f0a60308cdb9fd3"
     },
     "theatre": "Kola",
-    "@created": "2024-05-05T20:38:09.734Z",
-    "@dcsversion": "2.9.4.53990",
+    "@created": "2024-07-13T10:57:45.667Z",
+    "@dcsversion": "2.9.6.57650",
     "ID": 13,
     "displayName": "Kalixfors",
     "parking": [
