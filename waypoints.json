@@ -1,0 +1,218 @@
+[
+    {
+        "ETA": 0,
+        "ETA_locked": true,
+        "action": "Turning Point",
+        "alt": 2000,
+        "alt_type": "BARO",
+        "formation_template": "",
+        "speed": 220.97222222222,
+        "speed_locked": true,
+        "task": {
+            "id": "ComboTask",
+            "params": {
+                "tasks": [
+                    {
+                        "auto": true,
+                        "enabled": true,
+                        "id": "EngageTargets",
+                        "key": "CAP",
+                        "number": 1,
+                        "params": {
+                            "priority": 0,
+                            "targetTypes": [
+                                "Air"
+                            ]
+                        }
+                    },
+                    {
+                        "auto": true,
+                        "enabled": true,
+                        "id": "WrappedAction",
+                        "number": 2,
+                        "params": {
+                            "action": {
+                                "id": "Option",
+                                "params": {
+                                    "name": 17,
+                                    "value": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "auto": true,
+                        "enabled": true,
+                        "id": "WrappedAction",
+                        "number": 3,
+                        "params": {
+                            "action": {
+                                "id": "Option",
+                                "params": {
+                                    "name": 18,
+                                    "value": 4
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "auto": true,
+                        "enabled": true,
+                        "id": "WrappedAction",
+                        "number": 4,
+                        "params": {
+                            "action": {
+                                "id": "Option",
+                                "params": {
+                                    "name": 19,
+                                    "value": true
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "auto": true,
+                        "enabled": true,
+                        "id": "WrappedAction",
+                        "number": 5,
+                        "params": {
+                            "action": {
+                                "id": "Option",
+                                "params": {
+                                    "name": 21,
+                                    "noTargetTypes": [
+                                        "Fighters",
+                                        "Multirole fighters",
+                                        "Bombers",
+                                        "Helicopters",
+                                        "UAVs",
+                                        "Infantry",
+                                        "Fortifications",
+                                        "Tanks",
+                                        "IFV",
+                                        "APC",
+                                        "Artillery",
+                                        "Unarmed vehicles",
+                                        "AAA",
+                                        "SR SAM",
+                                        "MR SAM",
+                                        "LR SAM",
+                                        "Aircraft Carriers",
+                                        "Cruisers",
+                                        "Destroyers",
+                                        "Frigates",
+                                        "Corvettes",
+                                        "Light armed ships",
+                                        "Unarmed ships",
+                                        "Submarines",
+                                        "Cruise missiles",
+                                        "Antiship Missiles",
+                                        "AA Missiles",
+                                        "AG Missiles",
+                                        "SA Missiles"
+                                    ],
+                                    "targetTypes": [],
+                                    "value": "none;"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "auto": true,
+                        "enabled": true,
+                        "id": "WrappedAction",
+                        "number": 6,
+                        "params": {
+                            "action": {
+                                "id": "EPLRS",
+                                "params": {
+                                    "groupId": 2,
+                                    "value": true
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "type": "Turning Point",
+        "x": 252647.05981172,
+        "y": 374887.11221705
+    },
+    {
+        "ETA": 723.19259121016,
+        "ETA_locked": false,
+        "action": "Turning Point",
+        "alt": 2000,
+        "alt_type": "BARO",
+        "formation_template": "",
+        "speed": 220.97222222222,
+        "speed_locked": true,
+        "task": {
+            "id": "ComboTask",
+            "params": {
+                "tasks": []
+            }
+        },
+        "type": "Turning Point",
+        "x": 114245.78959699,
+        "y": 294994.19691714
+    },
+    {
+        "ETA": 1615.7374303665,
+        "ETA_locked": false,
+        "action": "Turning Point",
+        "alt": 2000,
+        "alt_type": "BARO",
+        "formation_template": "",
+        "speed": 220.97222222222,
+        "speed_locked": true,
+        "task": {
+            "id": "ComboTask",
+            "params": {
+                "tasks": []
+            }
+        },
+        "type": "Turning Point",
+        "x": -82981.268620167,
+        "y": 294524.90640604
+    },
+    {
+        "ETA": 3447.5602154417,
+        "ETA_locked": false,
+        "action": "Turning Point",
+        "alt": 2000,
+        "alt_type": "BARO",
+        "formation_template": "",
+        "speed": 220.97222222222,
+        "speed_locked": true,
+        "task": {
+            "id": "ComboTask",
+            "params": {
+                "tasks": []
+            }
+        },
+        "type": "Turning Point",
+        "x": -282164.30720493,
+        "y": 646908.99433984
+    },
+    {
+        "ETA": 6162.6961218001,
+        "ETA_locked": false,
+        "action": "Turning Point",
+        "alt": 2000,
+        "alt_type": "BARO",
+        "formation_template": "",
+        "speed": 220.97222222222,
+        "speed_locked": true,
+        "task": {
+            "id": "ComboTask",
+            "params": {
+                "tasks": []
+            }
+        },
+        "type": "Turning Point",
+        "x": 252586.26009251,
+        "y": 374869.71494373
+    }
+]
