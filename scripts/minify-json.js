@@ -10,6 +10,7 @@ const publicDir = path.resolve(process.cwd());
 //recursively call jsonminify to json files in directory
 const minifyJsonFiles = (dir) => {
   fs.readdirSync(dir).forEach((file) => {
+    if (file === "tsconfig.json" || file === "package.json") return;
     const filePath = path.join(dir, file);
 
     const stat = fs.statSync(filePath);

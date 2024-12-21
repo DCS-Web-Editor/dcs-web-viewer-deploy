@@ -1,1 +1,50 @@
-{"name":"leaflet-pixi","private":true,"version":"0.4.61","type":"module","scripts":{"dev":"vite --port 8080","build":"tsc && vite build","vite":"vite build","preview":"vite preview","link":"npm link ../dcs-web-editor-mono/packages/**/ --legacy-peer-deps","minify":"uglifyjs --compress --mangle --output dist/assets/main.min.js -- dist/assets/index.js","release":"vite build && node scripts/minify-json.js && npm run copy-static","copy-static":"rm -r ../dcs-web-viewer-deploy/assets && cp -r ./dist/** ../dcs-web-viewer-deploy && cp -r ./public/** ../dcs-web-viewer-deploy","release-canary":"CANARY=true vite build && npm run copy-static-canary","copy-static-canary":"cp dist/index.html ../dcs-web/public/viewer-canary.html && rm -r ../dcs-web/public/assets && cp -r dist/assets ../dcs-web/public/assets"},"devDependencies":{"@types/leaflet":"^1.9.0","typescript":"^4.9.3","uglify-js":"^3.17.4","vite":"^4.0.0","vite-plugin-singlefile":"^0.13.2"},"dependencies":{"@pixi/filter-drop-shadow":"^4.2.0","@pixi/filter-outline":"^5.1.1","@turf/turf":"6.5.0","@zip.js/zip.js":"^2.6.61","axios":"^1.3.2","fengari-web":"^0.1.4","geolib":"^3.3.3","geomagnetism":"^0.1.1","html2canvas":"^1.4.1","jquery":"^3.6.3","leaflet":"^1.9.3","leaflet-pixi-overlay":"^1.8.2","leaflet-simple-map-screenshoter":"^0.5.0","leaflet.nauticscale":"^1.1.0","pixi-dashed-line":"^1.0.0","pixi.js":"^6.5.8","proj4":"2.8.1","rollup-plugin-visualizer":"^5.12.0","suncalc":"^1.9.0","vite-plugin-conditional-compiler":"^0.3.0","vite-plugin-css-injected-by-js":"^2.4.0","vite-plugin-mkcert":"^1.16.0"}}
+{
+  "name": "leaflet-pixi",
+  "private": true,
+  "version": "0.4.61",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 8080",
+    "build": "tsc && vite build",
+    "vite": "vite build",
+    "preview": "vite preview",
+    "link": "npm link ../dcs-web-editor-mono/packages/**/ --legacy-peer-deps",
+    "minify": "uglifyjs --compress --mangle --output dist/assets/main.min.js -- dist/assets/index.js",
+    "minify-json": "node scripts/minify-json.js",
+    "release": "vite build && node scripts/minify-json.js && npm run copy-static",
+    "copy-static": "rm -r ../dcs-web-viewer-deploy/assets && cp -r ./dist/** ../dcs-web-viewer-deploy && cp -r ./public/** ../dcs-web-viewer-deploy",
+    "release-canary": "CANARY=true vite build && npm run copy-static-canary",
+    "copy-static-canary": "cp dist/index.html ../dcs-web/public/viewer-canary.html && rm -r ../dcs-web/public/assets && cp -r dist/assets ../dcs-web/public/assets"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.0",
+    "typescript": "^4.9.3",
+    "uglify-js": "^3.17.4",
+    "vite": "^4.0.0",
+    "vite-plugin-singlefile": "^0.13.2"
+  },
+  "dependencies": {
+    "@pixi/filter-drop-shadow": "^4.2.0",
+    "@pixi/filter-outline": "^5.1.1",
+    "@turf/turf": "6.5.0",
+    "@zip.js/zip.js": "^2.6.61",
+    "axios": "^1.3.2",
+    "fengari-web": "^0.1.4",
+    "geolib": "^3.3.3",
+    "geomagnetism": "^0.1.1",
+    "html2canvas": "^1.4.1",
+    "jquery": "^3.6.3",
+    "leaflet": "^1.9.3",
+    "leaflet-pixi-overlay": "^1.8.2",
+    "leaflet-simple-map-screenshoter": "^0.5.0",
+    "leaflet.nauticscale": "^1.1.0",
+    "pixi-dashed-line": "^1.0.0",
+    "pixi.js": "^6.5.8",
+    "proj4": "2.8.1",
+    "rollup-plugin-visualizer": "^5.12.0",
+    "suncalc": "^1.9.0",
+    "vite-plugin-conditional-compiler": "^0.3.0",
+    "vite-plugin-css-injected-by-js": "^2.4.0",
+    "vite-plugin-mkcert": "^1.16.0"
+  }
+}
