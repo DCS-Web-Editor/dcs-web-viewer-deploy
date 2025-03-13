@@ -6,7 +6,7 @@ DcsWebViewer = {}
 -- create socket once sim is started
 function DcsWebViewer:onSimulationStart()
     local socket = require("socket")
-    self.server = assert(socket.bind("127.0.0.1", 31485))
+    self.server = socket.bind("127.0.0.1", 31485)
     self.server:settimeout(0)
     self.targetCamera = nil  -- camera position for lerping
     self.staticObjects = {}  -- stores dynamically created static objects
@@ -27,8 +27,8 @@ function DcsWebViewer:onSimulationFrame()
         if server then
             local client = server:accept()
             if client then
-                client:settimeout(60)
-                local request, err = client:receive()
+                client:settimeout(0)
+                local request, err = client:receive("*l")
                 if not err then
                     local method, path, slug, queryString = request:match("^(%w+)%s(/[^%?]+)([^%?]*)%??(.*)%sHTTP/%d%.%d$")
                     local headers = self:getHeaders(client)
