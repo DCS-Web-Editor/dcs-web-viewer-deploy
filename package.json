@@ -7,6 +7,7 @@
     "dev": "vite --port 8080",
     "build": "tsc && vite build",
     "vite": "vite build",
+    "serve": "vite serve",
     "preview": "vite preview",
     "link": "npm link ../dcs-web-editor-mono/packages/**/ --legacy-peer-deps",
     "minify": "uglifyjs --compress --mangle --output dist/assets/main.min.js -- dist/assets/index.js",
