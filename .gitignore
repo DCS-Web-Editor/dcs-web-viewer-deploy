@@ -25,3 +25,4 @@ dist-ssr
 *Zone.Identifier
 
 *.map
+acmi/*
